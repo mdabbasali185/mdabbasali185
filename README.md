@@ -31,12 +31,13 @@
 <br />
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mdabbasali185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdabbasali185" height="40" width="50" /></a>
-<a href="https://fb.com/mdabbasali185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdabbasali185" height="40" width="50" /></a>
-<a href="https://instagram.com/mdabbasali185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdabbasali185" height="40" width="50" /></a>
-</p>
+
+## :mailbox: Reach me out
+
+<br />
+
+[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://linkedin.com/in/mdabbasali185/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://fb.com/mdabbasali185)
+
 
 <br />
 
