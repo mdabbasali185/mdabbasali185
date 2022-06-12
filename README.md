@@ -9,9 +9,10 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-Programmer || Learner
+<h1>Programmer | Learner</h1>
 
-?></h3>
+
+
 
 - 🔭 I’m currently working on **FrontEndWebDeveloper**
 
@@ -49,6 +50,7 @@ Programmer || Learner
 
 <br />
 
+ <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" align="center" width="160" > 
 
 [![Abbas github activity graph](https://activity-graph.herokuapp.com/graph?username=mdabbasali185&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/NoobMahbub/github-readme-activity-graph)
 
